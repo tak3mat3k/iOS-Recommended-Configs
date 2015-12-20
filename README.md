@@ -14,4 +14,4 @@ We should use [Alcatraz](http://alcatraz.io/) is a package manager fo Xcode
 
 ## Indentation 
 
-Inside Alcatraz there are a plug-in named [Swimat](https://github.com/Jintin/Swimat) used it to format swift code
+Inside Alcatraz there are a plug-in named [Swimat](https://github.com/Jintin/Swimat) to format swift code
